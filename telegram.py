@@ -7,7 +7,7 @@ import requests
 
 delay_on_requests = 15
 last_request_list = {}
-whitelist = [1031266336, 1224227612, 5025429154, 5219777821]
+whitelist = []
 use_whitelist = False
 
 try:
